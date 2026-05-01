@@ -219,17 +219,3 @@ python run_clientside_witherror.py \
     └── training_witherror.py     # FL training routines (with stochastic client errors)
 ```
 
----
-
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{,
-  title={},
-  author={},
-  journal={IEEE Communications Letters},
-  year={2025},
-}
-```
