@@ -1,9 +1,8 @@
 # FedHAW: Federated Learning with Hypergradient-based Adaptive Weights
 
-This repository contains the implementation of **FedHAW** and the experiments presented in the paper:
+This repository contains the implementation of **FedHAW** and the experiments presented in the letter:
 
-> **[Paper title]**  
-> IEEE Communications Letters, 2025.
+> **[Federated Learning with Hypergradient-based Online Update of Aggregation Weights]**  
 
 FedHAW is a federated learning aggregation method that uses hypergradient descent to adaptively optimize a global step-size scalar `gamma` and per-client aggregation weights `lambda_k` on the server, without requiring a proxy dataset or additional communication overhead.
 
