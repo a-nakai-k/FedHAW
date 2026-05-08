@@ -2,7 +2,7 @@
 
 This repository contains the implementation of **FedHAW** and the experiments presented in the letter:
 
-> [A. Nakai-Kasai](https://sites.google.com/view/ayano-nakai/home) and T. Wadayama, ``[Federated learning with hypergradient-based online update of aggregation weights](https://arxiv.org/abs/2605.00458),'' arXiv preprint, arXiv:2605.00458 [cs.LG], May 2026.
+> [A. Nakai-Kasai](https://sites.google.com/view/ayano-nakai/home/english) and T. Wadayama, ``[Federated learning with hypergradient-based online update of aggregation weights](https://arxiv.org/abs/2605.00458),'' arXiv preprint, arXiv:2605.00458 [cs.LG], May 2026.
 
 FedHAW is a federated learning aggregation method that uses hypergradient descent to adaptively optimize a global step-size scalar `gamma` and per-client aggregation weights `lambda_k` on the server, without requiring a proxy dataset or additional communication overhead.
 
